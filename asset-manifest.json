@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vrishab11.github.io/csb-nw8zyr/static/css/main.30f0f6e7.chunk.css",
+    "main.js": "https://vrishab11.github.io/csb-nw8zyr/static/js/main.f81ee255.chunk.js",
+    "main.js.map": "https://vrishab11.github.io/csb-nw8zyr/static/js/main.f81ee255.chunk.js.map",
+    "runtime-main.js": "https://vrishab11.github.io/csb-nw8zyr/static/js/runtime-main.f5fdd00a.js",
+    "runtime-main.js.map": "https://vrishab11.github.io/csb-nw8zyr/static/js/runtime-main.f5fdd00a.js.map",
+    "static/js/2.102885a5.chunk.js": "https://vrishab11.github.io/csb-nw8zyr/static/js/2.102885a5.chunk.js",
+    "static/js/2.102885a5.chunk.js.map": "https://vrishab11.github.io/csb-nw8zyr/static/js/2.102885a5.chunk.js.map",
+    "index.html": "https://vrishab11.github.io/csb-nw8zyr/index.html",
+    "static/css/main.30f0f6e7.chunk.css.map": "https://vrishab11.github.io/csb-nw8zyr/static/css/main.30f0f6e7.chunk.css.map",
+    "static/js/2.102885a5.chunk.js.LICENSE.txt": "https://vrishab11.github.io/csb-nw8zyr/static/js/2.102885a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5fdd00a.js",
+    "static/js/2.102885a5.chunk.js",
+    "static/css/main.30f0f6e7.chunk.css",
+    "static/js/main.f81ee255.chunk.js"
+  ]
+}
